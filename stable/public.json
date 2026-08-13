@@ -1,12 +1,12 @@
 {
-  "notes": "Impulse // Archive PUBLIC v1.6.4",
+  "notes": "Impulse // Archive PUBLIC v1.7.0",
   "platforms": {
     "windows-x86_64": {
-      "path": "/Impulse-Archive-Public-v1.6.4-setup.exe",
+      "path": "/Impulse-Archive-Public-v1.7.0-setup.exe",
       "provider": "yandex-public",
       "public_key": "https://yadi.sk/d/2MZzYwpQL645gA",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU5SN2JLTnY3NUg1T2NKbmpSZDNwRDYwQ3NnSFM0Nm9BaUwreXFiM21teEh6aDJoQkorZWVvOE5iUkMwNnJvRnRqWGZrU1ExK25XS0JHNGlDUnpDWmJSL2ZBNEh5VGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjI5MTIyCWZpbGU6SW1wdWxzZSBBcmNoaXZlIFB1YmxpY18xLjYuNF94NjQtc2V0dXAuZXhlCldWV0NaUXR6aWM3cS9FOWhudWYwaFVSWUNTVGhpcjBLUDM5aUMwZUc0K1RkeWFpWkR1SjBXRmsvNEk1RHVjSHhuYmIxREdvZ0V1SDhrVXBlditLTEFnPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU5SN2JLTnY3NUZZQzlUTDRrTnl0dzlmYkJYaXUxdmZ0UFRoSkJReDBjSEtFK3JPVlpzTmd4K1llN3ZMdG9tZ1JyZFF5TWVGMDN3L3VpSlBETzN3ZUtkZ0FKTGRvUHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NjMyMjQ3CWZpbGU6SW1wdWxzZSBBcmNoaXZlIFB1YmxpY18xLjcuMF94NjQtc2V0dXAuZXhlCiswT1dKeGZOM3AvaTdrZlBhVlVnSlN1QXZPWXd4ZHJBM2Nzb0x6VXhXYStHMDUrUkJHOTdIUEpOMmxOWWlFa0FWd3FlK1huRllsamJWc0hhNklRVkJBPT0K"
     }
   },
-  "version": "1.6.4"
+  "version": "1.7.0"
 }
